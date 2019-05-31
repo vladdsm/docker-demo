@@ -26,8 +26,15 @@ Disadvantages:
 Examples of Dockerfiles
 =============================
 
-* set up custom R-Studio IDE in a container https://github.com/vladdsm/docker-r-studio
-* set up base R template https://github.com/vladdsm/docker-r-h2o
+## set up custom R-Studio IDE in a container
+* GitHub repository: https://github.com/vladdsm/docker-r-studio
+* DockerHub image with auto-build: https://cloud.docker.com/u/vladdsm/repository/docker/vladdsm/docker-r-studio
+
+## set up base R template in a container
+* GitHub repository: https://github.com/vladdsm/docker-r-h2o
+* Dockerhub image with auto-build: https://cloud.docker.com/repository/docker/vladdsm/docker-r-h2o
+
+## examples
 * example of adding R markdown https://github.com/vladdsm/docker-r-r
 * example of running R script: https://github.com/vladdsm/docker-r-s
 
