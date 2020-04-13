@@ -21,8 +21,7 @@ Illustrate few use cases about using Docker Containers for Data Science and Repr
 * set up base R template. Added custom packages and h2o open-source platform: https://github.com/vladdsm/docker-r-h2o
 * example of adding R markdown: https://github.com/vladdsm/docker-r-r
 * example of running R script: https://github.com/vladdsm/docker-r-s
-
-* example of R plumber API: https://github.com/vladdsm/docker-r-plumber [in progress]
+* example of R plumber API: https://github.com/vladdsm/docker-r-plumber
 * example of R ShinyApp: https://github.com/vladdsm/docker-r-shiny [in progress]
 
 ## Useful resources
