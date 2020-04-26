@@ -24,7 +24,7 @@ Illustrate few use cases about using Docker Containers for Data Science and Repr
 * example of R plumber API: https://github.com/vladdsm/docker-r-plumber
 * example of R ShinyApp: https://github.com/vladdsm/docker-r-shiny
 * example of R ShinyApp developed in a Docker Container with {golem} framework: https://github.com/vladdsm/trackpack
-* PLANNED example of multi container application (ShinyApp + database): 
+* PLANNED example of multi container application with docker-compose (ShinyApp + database): 
 
 # Docker compose
 
